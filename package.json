@@ -1,10 +1,10 @@
 {
-  "name": "vue-speedometer",
-  "version": "2.0.0",
-  "description": "Vue component for showing speedomenter like gauge with d3",
+  "name": "@leonhyo/vue-speedometer",
+  "version": "0.0.2",
+  "description": "Vue component for showing speedomenter like gauge with d3(no Vulnerability)",
   "author": {
-    "name": "palerdot",
-    "email": "palerdot@gmail.com"
+    "name": "leonhyo",
+    "email": "leonhyo@gmail.com"
   },
   "files": [
     "dist"
@@ -89,7 +89,7 @@
     "node": ">=8.0",
     "npm": ">=3.0.0"
   },
-  "homepage": "https://github.com/palerdot/vue-speedometer#readme",
+  "homepage": "https://github.com/duyo-son/vue-speedometer#readme",
   "keywords": [
     "vue",
     "speedometer",
@@ -99,6 +99,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/palerdot/vue-speedometer.git"
+    "url": "git+https://github.com/duyo-son/vue-speedometer.git"
   }
 }

@@ -15,6 +15,9 @@ Note: v2.x is compatible with `Vue 3`. Please use latest v1.x (v1.8.0 at the tim
 
 ## Usage:
 
+**fork ver:**
+`npm i @leonhyo/vue-speedometer` 
+
 **Yarn:**
 `yarn add vue-speedometer` 
 
